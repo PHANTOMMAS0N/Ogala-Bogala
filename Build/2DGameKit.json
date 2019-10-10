@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2d Game Kit",
+"productVersion": "1.0",
+"dataUrl": "2DGameKit.data.unityweb",
+"asmCodeUrl": "2DGameKit.asm.code.unityweb",
+"asmMemoryUrl": "2DGameKit.asm.memory.unityweb",
+"asmFrameworkUrl": "2DGameKit.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
